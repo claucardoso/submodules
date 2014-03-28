@@ -1,0 +1,3 @@
+[submodule "submodule-files"]
+	path = submodule-files
+	url = http://www.github.com/claucardoso/submodule_main.git
